@@ -1,9 +1,15 @@
 ---
-author: Yihui Xie
-date: "2017-08-06"
-title: My personal website
+title: Project Team
+---
+| Name                 | UID        |Email                  |
+|----------------------|------------|-----------------------|
+| TANG Jiheng Harry    | 3035022485 |u3502248@connect.hku.hk|
+| LI Hang Lewis        | 3036030271 |u3603027@connect.hku.hk|
+| FUNG Kit Bosco       | 3036030142 |kbfung@connect.hku.hk  |
+| LEUNG Wing Ki Calina | 3036030075 |wkcleung@connect.hku.hk|
+| LAU Venus            | 3036030087 |u3603008@connect.hku.hk|
+
+---
+Project Supervisor: Dr. Juergen Rahmel
 ---
 
-This Hugo theme was ported from [Ivy](https://github.com/dmulholland/ivy), a minimalist website generator built in Python. I don't have time to document this theme. You have to read the source code to understand what it can do. All I can say for now is that I love it. It is clean, minimal, and responsive.
-
-I hope you will enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-ivy). Happy hacking!
