@@ -1,10 +1,10 @@
 ---
 title: Case study on JPEX
-author: 'Bosco & Venas'
-date: '2023-11-04'
+author: Bosco & Venus
+date: '2023-11-05'
 slug: case-study-on-jpex
-categories: 
-  - Case study
+categories:
+  - Case
 tags: []
 ---
 
