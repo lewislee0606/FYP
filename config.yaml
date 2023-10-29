@@ -20,7 +20,7 @@ menu:
     - name: "Milestones"
       url: "/Milestones/" 
       weight: 2
-    - name: "Categories"  
+    - name: "Categories"
       url: "/categories/"
       weight: 3
     - name: "Code"
